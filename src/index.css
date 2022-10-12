@@ -1,13 +1,20 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&family=Source+Serif+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&family=Proza+Libre&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+
+    --asheh-kok: #0593A2;
+    --kok: #103778;
+    --hara-kok: #151F30;
+    --orange: #FF7A48;
+    --rust-red: #E3371E;
+
+    --sans: 'Source Sans Pro', sans-serif;
+    --serif: 'Source Serif Pro', serif;
+    --cormorant-seif: 'Cormorant Garamond', serif;
+    --proza-serif: 'Proza Libre', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
