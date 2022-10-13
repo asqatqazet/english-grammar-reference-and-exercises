@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1279bc6a.css",
-    "main.js": "/static/js/main.cacee12f.js",
-    "static/js/787.4c16cc64.chunk.js": "/static/js/787.4c16cc64.chunk.js",
-    "index.html": "/index.html",
-    "main.1279bc6a.css.map": "/static/css/main.1279bc6a.css.map",
-    "main.cacee12f.js.map": "/static/js/main.cacee12f.js.map",
-    "787.4c16cc64.chunk.js.map": "/static/js/787.4c16cc64.chunk.js.map"
+    "main.css": "/english-grammar-reference-and-exercises/static/css/main.1279bc6a.css",
+    "main.js": "/english-grammar-reference-and-exercises/static/js/main.7edef054.js",
+    "static/js/787.4c16cc64.chunk.js": "/english-grammar-reference-and-exercises/static/js/787.4c16cc64.chunk.js",
+    "index.html": "/english-grammar-reference-and-exercises/index.html",
+    "main.1279bc6a.css.map": "/english-grammar-reference-and-exercises/static/css/main.1279bc6a.css.map",
+    "main.7edef054.js.map": "/english-grammar-reference-and-exercises/static/js/main.7edef054.js.map",
+    "787.4c16cc64.chunk.js.map": "/english-grammar-reference-and-exercises/static/js/787.4c16cc64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1279bc6a.css",
-    "static/js/main.cacee12f.js"
+    "static/js/main.7edef054.js"
   ]
 }
