@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/english-grammar/static/css/main.1279bc6a.css",
-    "main.js": "/english-grammar/static/js/main.f9d53566.js",
-    "static/js/787.4c16cc64.chunk.js": "/english-grammar/static/js/787.4c16cc64.chunk.js",
-    "index.html": "/english-grammar/index.html",
-    "main.1279bc6a.css.map": "/english-grammar/static/css/main.1279bc6a.css.map",
-    "main.f9d53566.js.map": "/english-grammar/static/js/main.f9d53566.js.map",
-    "787.4c16cc64.chunk.js.map": "/english-grammar/static/js/787.4c16cc64.chunk.js.map"
+    "main.css": "/static/css/main.1279bc6a.css",
+    "main.js": "/static/js/main.cacee12f.js",
+    "static/js/787.4c16cc64.chunk.js": "/static/js/787.4c16cc64.chunk.js",
+    "index.html": "/index.html",
+    "main.1279bc6a.css.map": "/static/css/main.1279bc6a.css.map",
+    "main.cacee12f.js.map": "/static/js/main.cacee12f.js.map",
+    "787.4c16cc64.chunk.js.map": "/static/js/787.4c16cc64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1279bc6a.css",
-    "static/js/main.f9d53566.js"
+    "static/js/main.cacee12f.js"
   ]
 }
